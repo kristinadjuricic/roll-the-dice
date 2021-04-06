@@ -76,7 +76,6 @@ btnRoll.addEventListener('click', function () {
       ).textContent = currentScore;
     } else {
       // document.getElementById(`current--${activePlayer}`).textContent = 0;
-      // //switch to next player
       // currentScore = 0;
       // activePlayer = activePlayer === 0 ? 1 : 0;
       // player0El.classList.toggle('player--active');
